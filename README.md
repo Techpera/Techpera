@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Aafreen Khan</h1>
 <h3 align="center">"A passionate frontend developer"</h3>
-<img src="[https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif](https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif)" alt="image" width="400" align="right">   
+<img src="(https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif)" alt="image" width="400" align="right">   
 
 - 🌱 I’m currently learning **React js,Testing**
 
