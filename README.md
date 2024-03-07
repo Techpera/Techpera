@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Aafreen Khan</h1>
 <h3 align="center">"A passionate frontend developer"</h3>
-<img src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif" alt="image" width="400" align="right">   
+<img src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif" alt="image" width="350" align="right" border-radius="10px">   
 
 - 🌱 I’m currently learning **React js,Testing**
 
